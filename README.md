@@ -7,8 +7,8 @@
 #### LOG
 ![image](https://github.com/BTC-Miles/ETH-Monitor-Addr/blob/main/image/1.png)
 
-#### transe in
+#### transfer in
 ![image](https://github.com/BTC-Miles/ETH-Monitor-Addr/blob/main/image/3.png)
 
-#### transe out
+#### transfer out
 ![image](https://github.com/BTC-Miles/ETH-Monitor-Addr/blob/main/image/2.png)
